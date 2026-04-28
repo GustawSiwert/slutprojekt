@@ -4,9 +4,9 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    float gravity = 0.06f;
-    float swimStrength = 4;
-    float waterRes = 0.03f;
+    float gravity = 0.08f;
+    float swimStrength = 5;
+    float waterRes = 0.05f;
     float freeFallSpeed = 3;
     float maxSpeed = 7f;
     
